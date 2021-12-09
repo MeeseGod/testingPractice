@@ -1,0 +1,22 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "Practising testing tools and functions for TOP JS pathway.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeeseGod/testingPractice.git"
+  },
+  "author": "MeeseGod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeeseGod/testingPractice/issues"
+  },
+  "homepage": "https://github.com/MeeseGod/testingPractice#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
